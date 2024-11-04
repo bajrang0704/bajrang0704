@@ -21,7 +21,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoNik2367&theme=neon-dark" alt="LeoNik2367" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bajrang0704&theme=neon-dark" alt="bajrang0704" /></p>
 
 
 
@@ -30,9 +30,9 @@
 ----
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="LeoNik2367's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LeoNik2367&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
+    <img alt="Prabanjan Github Stats" src="https://github-readme-stats.vercel.app/api?username=bajrang0704&show_icons=true&count_private=true&locale=en&theme=neon&layout=compact" height="230px"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoNik2367&langs_count=10&show_icons=true&locale=en&theme=neon" alt="LeoNik2367" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bajrang0704&langs_count=10&show_icons=true&locale=en&theme=neon" alt="bajrang" height="230px"/>
 </p>
 <br/>
 
