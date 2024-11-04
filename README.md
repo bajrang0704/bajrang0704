@@ -1,4 +1,6 @@
-## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=bajrang0704&color=blue)
+
+## Hi,i'm prabanjan 👋
 
 <!--
 **bajrang0704/bajrang0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
