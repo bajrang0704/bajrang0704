@@ -1,6 +1,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bajrang0704&color=blue)
 
 ## Hi,i'm prabanjan 👋
+- [About Me](
+- I am front end developer and explorer of Blockchain , Web development, crypto , web3.
+- As a college student dedicated to continuous learning and growth, I am enthusiastic about acquiring new knowledge and developing my skills particularly in the exciting realms of web 3 ,crypto,full stack 
+  development and blockchain technologies. I am actively exploring these emerging technologies and their potential impact on the future
+- )
+  
 
 <!--
 **bajrang0704/bajrang0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
