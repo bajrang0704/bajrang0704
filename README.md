@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bajrang0704&color=blue)
 
-
-- <h1 align="center">Hi , I'm Leo Nikhil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <h1 align="center">Hi , I'm prabanjan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ ## About me
 - I am front end developer and explorer of Blockchain , Web development, crypto , web3.
 - As a college student dedicated to continuous learning and growth, I am enthusiastic about acquiring new knowledge and developing my skills particularly in the exciting realms of web 3 ,crypto,full stack 
   development and blockchain technologies. I am actively exploring these emerging technologies and their potential impact on the future
